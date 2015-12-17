@@ -1,4 +1,4 @@
 # sqlite amalgamation
 
-sqlite version: 3.8.10.2
+sqlite version: 3.9.2
 
